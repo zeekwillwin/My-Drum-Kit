@@ -74,7 +74,7 @@ function buttonAnimation(currentKey) {
         
     setTimeout(function() { //setTimeout function used to remove the pressed class from our activeButton after 100 milliseconds
         activeButton.classList.remove("pressed");
-    }, 95)    
+    }, 100)    
 
 }
 
